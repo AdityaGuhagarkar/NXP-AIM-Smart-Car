@@ -1,0 +1,168 @@
+material Logo/NXP
+{
+    technique
+    {
+        pass
+        {
+            texture_unit
+            {
+                texture nxp.png
+                scale 1.0 1.0
+            }
+        }
+    }
+}
+material Logo/AIM
+{
+    technique
+    {
+        pass
+        {
+            texture_unit
+            {
+                texture aim.png
+                scale 1.0 1.0
+            }
+        }
+    }
+}
+material Logo/IndiaFlag
+{
+    technique
+    {
+        pass
+        {
+            texture_unit
+            {
+                texture india_flag.png
+                scale 1.0 1.0
+            }
+        }
+    }
+}
+material Logo/Team
+{
+    technique
+    {
+        pass
+        {
+            texture_unit
+            {
+                texture team.png
+                scale 1.0 1.0
+            }
+        }
+    }
+}
+material Logo/Logo
+{
+    technique
+    {
+        pass
+        {
+            texture_unit
+            {
+                texture logo.png
+                scale 1.0 1.0
+            }
+        }
+    }
+}
+material Logo/Arrow
+{
+    technique
+    {
+        pass
+        {
+            texture_unit
+            {
+                texture arrows.jpg
+                scale 1.0 1.0
+            }
+        }
+    }
+}
+material Logo/Tirefl
+{
+    technique
+    {
+        pass
+        {
+            texture_unit
+            {
+                texture tirefl.png
+                scale 1.0 1.0
+            }
+        }
+    }
+}
+material Logo/Tirefr
+{
+    technique
+    {
+        pass
+        {
+            texture_unit
+            {
+                texture tirefr.png
+                scale 1.0 1.0
+            }
+        }
+    }
+}
+material Logo/Tirebl
+{
+    technique
+    {
+        pass
+        {
+            texture_unit
+            {
+                texture tirebl.png
+                scale 1.0 1.0
+            }
+        }
+    }
+}
+material Logo/Tirebr
+{
+    technique
+    {
+        pass
+        {
+            texture_unit
+            {
+                texture tirebr.png
+                scale 1.0 1.0
+            }
+        }
+    }
+}
+material Logo/TnB
+{
+    technique
+    {
+        pass
+        {
+            texture_unit
+            {
+                texture tnb.jpeg
+                scale 1.0 1.0
+            }
+        }
+    }
+}
+material Logo/Team2
+{
+    technique
+    {
+        pass
+        {
+            texture_unit
+            {
+                texture team2.jpeg
+                scale 1.0 1.0
+            }
+        }
+    }
+}
